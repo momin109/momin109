@@ -77,8 +77,8 @@ An e-commerce inspired full stack project with practical real-world features.
 
 ## 📊 GitHub Stats
 
-![Momin's GitHub stats](https://github-readme-stats.vercel.app/api?username=momin109&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momin109&layout=compact)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=momin109&show_icons=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=momin109&layout=compact)
 
 ---
 
