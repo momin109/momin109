@@ -6,9 +6,10 @@ I’m a passionate Full Stack Developer focused on building modern, responsive, 
 I enjoy working with both frontend and backend technologies to create complete digital solutions.
 
 ### 🚀 About Me
-- 🌱 I’m currently improving my skills in **Next.js, TypeScript, and Backend Development**
+- 🌱 I’m currently improving my skills in **Next.js, TypeScript, Prisma ORM, and Backend Development**
 - 💻 I love building **full stack web applications**
-- 🎯 My goal is to become a highly skilled **MERN / Full Stack Developer**
+- ⚡ I work with **Redux, Framer Motion, Prisma, Neon, and Cloudinary**
+- 🎯 My goal is to become a highly skilled **Full Stack Developer**
 - 📫 Reach me at: **momin550550@gmail.com**
 - 🌐 Portfolio: **https://mdmominali103.vercel.app/**
 
@@ -21,21 +22,23 @@ I enjoy working with both frontend and backend technologies to create complete d
 - Next.js
 - TypeScript
 - JavaScript
-- redux
+- Redux
+- Framer Motion
 - HTML5
 - CSS3
 - Tailwind CSS
 - Bootstrap
-- framer-motion
 
 ### Backend
 - Node.js
 - Express.js
-- MongoDB
-- Firebase
+- Prisma ORM
+
+### Database & Cloud
 - PostgreSQL
-- prisma ORM
-  - Neon
+- MongoDB
+- Neon
+- Firebase
 - Cloudinary
 
 ### Tools & Platforms
@@ -49,21 +52,25 @@ I enjoy working with both frontend and backend technologies to create complete d
 
 ## 📌 Featured Projects
 
-### 1. Portfolio Website
-**Tech:** Next.js, TypeScript, Tailwind CSS  
-A personal portfolio website showcasing my projects, skills, and experience.
 
-### 2. Full Stack Web App
-**Tech:** React, Node.js, Express.js, MongoDB  
-A complete full stack application with authentication, CRUD operations, and responsive UI.
+### 1. NXTAmazon
+An e-commerce inspired full stack application with modern development tools.
 
-### 3. E-commerce Project
-**Tech:** React, Firebase, Tailwind CSS  
-An online shopping application with product listing, cart functionality, and user login.
+### 2. NexNews
+A modern news application built with a fast and responsive frontend.
 
-### 4. Dashboard / Admin Panel
-**Tech:** React, TypeScript, Chart Integration  
-A modern dashboard with analytics, charts, and management features.
+### 3. NoorRamadan
+A themed web application with polished UI and user-focused experience.
+
+### 4. bookStore
+A full-stack bookstore application with modern UI and scalable features.
+
+### 5. hotel-management-api
+A backend API for hotel booking and management system.
+
+### 6. my_blog
+A blog platform with clean design and content management features.
+
 
 ---
 
