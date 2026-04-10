@@ -10,7 +10,7 @@ I enjoy working with both frontend and backend technologies to create complete d
 - 💻 I love building **full stack web applications**
 - 🎯 My goal is to become a highly skilled **MERN / Full Stack Developer**
 - 📫 Reach me at: **momin550550@gmail.com**
-- 🌐 Portfolio: **your-portfolio-link**
+- 🌐 Portfolio: **https://mdmominali103.vercel.app/**
 
 ---
 
