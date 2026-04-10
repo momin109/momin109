@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Momin Hasan</h1>
+<h1 align="center">Hi 👋, I'm Momin Ali</h1>
 <h3 align="center">Full Stack Developer | React | Next.js | TypeScript | Prisma | PostgreSQL</h3>
 
 <p align="center">
@@ -86,7 +86,7 @@ An e-commerce inspired full stack project with practical real-world features.
 
 - GitHub: [github.com/momin109](https://github.com/momin109)
 - Portfolio: [mdmominali103.vercel.app](https://mdmominali103.vercel.app/)
-- LinkedIn: **Your LinkedIn Link Here**
+- LinkedIn: **https://www.linkedin.com/in/md-momin-ali-01099138a/**
 
 ---
 
